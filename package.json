@@ -48,7 +48,7 @@
     "coveralls": "^3.0.0",
     "envalid": "^4.0.1",
     "get-stream": "^4.0.0",
-    "glob": "^7.1.2",
+    "glob": "7.1.2",
     "gunzip-maybe": "^1.4.1",
     "humanize-string": "^1.0.1",
     "into-stream": "^3.1.0",
